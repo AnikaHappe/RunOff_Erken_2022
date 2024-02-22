@@ -1,1 +1,3 @@
-# RunOff_Erken_2022
+# Description of uploaded files
+
+#The file "Figures_RunOff_Erken_2022.R" contains all plots that appear in the associated publication. Figure 1 (overview of experimental schedule) is created in lines 34-46. Figure 2 (time series plots of dissolved oxygen, photosynthetic active radiation, particulate carbon and all stoichiometric ratios) is created in lines 50-344. Calculations for phytoplankton stability (recovery and area under the curve (AUC) for overall ecological vulnerability (OEV)) are conducted in lines 348-578. Figure 3 (results of stability for all stoichiometric ratios) is created in lines 580-607. Calculations for the stoichiometry of two other size fractions and figure 4 are conducted in lines 613-833.
